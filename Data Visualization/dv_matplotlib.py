@@ -30,5 +30,6 @@ if __name__ == "__main__":
 
     #显示/保存图片
     #plt.show()
-    plt.savefig('test.png')
+    #plt.savefig('test.png')
+    plt.show()
     #hfkadfhkja
